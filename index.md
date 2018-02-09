@@ -20,6 +20,8 @@ Estudante de Jogos Digitais
 
 ## Artes
 
+![Imagem1](http://www.vortexcultural.com.br/images/2012/11/gomez-fez.jpg)
+
 ## Apresentações
 * Aula de músicas
 * Aula de teatro
