@@ -22,13 +22,17 @@ Estudante de Jogos Digitais
 
 ## Artes
 
+![](Cenário.PNG)    
+![](BandeiraUSA.PNG)    
+![](BandeiraBR.PNG)    
+![](Coração.PNG)
 
 
 
 ## Apresentações
-* Aula de músicas
-* Aula de teatro
-* Aula de jogos
+* Aula de Programação
+* Aula de Game Design
+* Aula de Animação
 
 
 * * *
