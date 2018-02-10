@@ -1,12 +1,6 @@
-Criando minha página
-
----
-layout: default
----
-
 Criando **minha** _página_ ~~principal~~.
 
-# Quem sou eu
+# Quem sou eu?
 
 Estudante de Jogos Digitais 
 
@@ -24,6 +18,7 @@ Estudante de Jogos Digitais
 
 [Jogo 3 Oficina: World Robot](https://felipecastroifrn.github.io/World%20Robot/)
 
+![](WorldRobot.PNG)
 
 ## Artes
 
