@@ -1,6 +1,6 @@
 # Quem sou eu?
 
-![]()
+![](Eu.jpg)
 
 Felipe Castro, 18. Técnico em Programação de Jogos Digitais (IFRN - Campus Ceará-Mirim).
 
@@ -31,12 +31,10 @@ Felipe Castro, 18. Técnico em Programação de Jogos Digitais (IFRN - Campus Ce
 ![](BandeiraBR.PNG)    
 ![](Coração.PNG)
 
-
+* * *
 
 ## Apresentações
 * I Expotec - IFRN Campus Ceará-Mirim
-* Aula de Game Design
-* Aula de Animação
 
 
 * * *
