@@ -26,10 +26,10 @@ Felipe Castro, 18. Técnico em Programação de Jogos Digitais (IFRN - Campus Ce
 
 ## Artes
 
-![](Cenário.PNG)    
-![](BandeiraUSA.PNG)    
 ![](BandeiraBR.PNG)    
-![](Coração.PNG)
+![](BandeiraUSA.PNG)    
+![](Coração.PNG)    
+![](Cenário.PNG)
 
 * * *
 
