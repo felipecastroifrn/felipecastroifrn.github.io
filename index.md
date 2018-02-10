@@ -16,15 +16,16 @@ Estudante de Jogos Digitais
 
 [Jogo 1 Oficina: Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino/)  
 
-[![](AMissãoDoMensageiro.png)](https://jefferson141.github.io/A%20miss%C3%A3o%20do%20Mensageiro/)
+[Jogo 2 Oficina: A Missão do Mensageiro](https://jefferson141.github.io/A%20miss%C3%A3o%20do%20Mensageiro/)
 
-![](Jogo2.png)
+![](AMissãoDoMensageiro.png)
 
 ## Artes
 
 ![Imagem1](http://www.vortexcultural.com.br/images/2012/11/gomez-fez.jpg)  
 ![](Fez.png)  
 ![](AMissãoDoMensageiro.png)
+![](Jogo2.png)
 
 
 ## Apresentações
