@@ -1,8 +1,8 @@
-Criando **minha** _página_ ~~principal~~.
-
 # Quem sou eu?
 
-Estudante de Jogos Digitais 
+
+
+Felipe Castro, 18. Técnico em Programação de Jogos Digitais (IFRN - Campus Ceará-Mirim).
 
 # Portifólio
 
@@ -34,7 +34,7 @@ Estudante de Jogos Digitais
 
 
 ## Apresentações
-* Aula de Programação
+* I Expotec - IFRN Campus Ceará-Mirim
 * Aula de Game Design
 * Aula de Animação
 
