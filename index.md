@@ -1,10 +1,10 @@
+# Portifólio de Jogos Digitais
+
 # Quem sou eu?
 
 ![](Eu.jpg)
 
 Felipe Castro, 18. Técnico em Programação de Jogos Digitais (IFRN - Campus Ceará-Mirim).
-
-# Portifólio
 
 ## Games
 
@@ -26,9 +26,9 @@ Felipe Castro, 18. Técnico em Programação de Jogos Digitais (IFRN - Campus Ce
 
 ## Artes
 
-![](BandeiraBR.PNG)    
-![](BandeiraUSA.PNG)    
-![](Coração.PNG)    
+![](BandeiraBR.PNG)  
+![](BandeiraUSA.PNG)  
+![](Coração.PNG)  
 ![](Cenário.PNG)
 
 * * *
