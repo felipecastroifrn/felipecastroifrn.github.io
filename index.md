@@ -16,19 +16,19 @@ E-Mail: felipecastro12345fc6@gmail.com
 
 ## Games
 
-[Jogo 1 Oficina: Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino/)  
+* [Jogo 1 Oficina: Parkour Junino](https://felipecastroifrn.github.io/ParkourJunino/)  
 
 ![](ParkourJunino.PNG)  
 
-[Jogo 2 Oficina: A Missão do Mensageiro](https://jefferson141.github.io/A%20miss%C3%A3o%20do%20Mensageiro/)
+* [Jogo 2 Oficina: A Missão do Mensageiro](https://jefferson141.github.io/A%20miss%C3%A3o%20do%20Mensageiro/)
 
 ![](AMissãoDoMensageiro.png)
 
-[Jogo 3 Oficina: World Robot](https://felipecastroifrn.github.io/World%20Robot/)
+* [Jogo 3 Oficina: World Robot](https://felipecastroifrn.github.io/World%20Robot/)
 
 ![](WorldRobot.PNG)
 
-[Jogo: TowerDefense](https://reiarthursr.github.io/Torre/)
+* [Projeto de Jogo: TowerDefense](https://reiarthursr.github.io/Torre/)
 
 ![](TowerDefense.PNG)
 
