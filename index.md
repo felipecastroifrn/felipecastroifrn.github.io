@@ -38,7 +38,6 @@ E-Mail: felipecastro12345fc6@gmail.com
 ![](BandeiraUSA.PNG)  
 ![](Coração.PNG)  
 ![](Cenário.PNG)    
-![](ArvorePixelArt)
 
 * * *
 
