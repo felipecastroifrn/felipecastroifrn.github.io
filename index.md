@@ -42,7 +42,8 @@ E-Mail: felipecastro12345fc6@gmail.com
 * * *
 
 ## Apresentações
-* I Expotec - IFRN Campus Ceará-Mirim
+* I Expotec - IFRN Campus Ceará-Mirim  
+![](BannerEXPOTEC2017.png)
 
 
 * * *
