@@ -34,16 +34,16 @@ E-Mail: felipecastro12345fc6@gmail.com
 
 ## Artes
 
-![](BandeiraBR.PNG)  
-![](BandeiraUSA.PNG)  
-![](Coração.PNG)  
-![](Cenário.PNG)    
+![](BandeiraBR.PNG)   ![](BandeiraUSA.PNG)  
+![](Coração.PNG) ![](Cenário.PNG)    
 
 * * *
 
 ## Apresentações
 * I Expotec - IFRN Campus Ceará-Mirim  
 ![](BannerEXPOTEC2017.png)
+
+Orientador (a): Daniela Beny Polito Moraes
 
 
 * * *
