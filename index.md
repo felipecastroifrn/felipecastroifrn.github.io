@@ -30,17 +30,22 @@ E-Mail: felipecastro12345fc6@gmail.com
 
 * [Projeto de Jogo: TowerDefense](https://reiarthursr.github.io/Torre/)
 
-[![](TowerDefense.PNG)](https://reiarthursr.github.io/Torre/)
+[![](TowerDefense.PNG)](https://reiarthursr.github.io/Torre/)  
 
 ## Artes
 
 ![](BandeiraBR.PNG)   ![](BandeiraUSA.PNG)  
 ![](Coração.PNG) ![](Cenário.PNG)    
 
+# Influence Map
+
+![](InfluenceMap.png) 
+
 * * *
 
 ## Apresentações
 * I Expotec - IFRN Campus Ceará-Mirim  
+
 ![](BannerEXPOTEC2017.png)
 
 Orientador (a): Daniela Beny Polito Moraes
