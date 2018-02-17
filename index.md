@@ -46,10 +46,10 @@ E-Mail: felipecastro12345fc6@gmail.com
 ## Apresentações
 * I Expotec - IFRN Campus Ceará-Mirim  
 
-![](BannerEXPOTEC2017.png)
-
 Orientador (a): Daniela Beny Polito Moraes
 
+
+![](BannerEXPOTEC2017.png)  
 
 * * *
 
