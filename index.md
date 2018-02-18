@@ -45,7 +45,13 @@ Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de di
 
 ![](InfluenceMap.png) 
 
-* * *
+* * *  
+
+## Atividades 
+
+[Tutorial de Multi-Idiomas no Construct 2](https://drive.google.com/drive/my-drive)  
+
+Integrantes: Arthur Soares; Felipe Castro; Tailson Ferreira  
 
 ## Apresentações
 
