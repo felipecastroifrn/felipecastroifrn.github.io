@@ -32,13 +32,7 @@ Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de di
 
 "World Robot" é um jogo onde um mini robô precisa derrotar naves, para isso ele precisa recarregar seu estoque constantemente.
 
-[![](WorldRobot.PNG)](https://felipecastroifrn.github.io/World%20Robot/)
-
-* [Projeto de Jogo: TowerDefense](https://reiarthursr.github.io/Torre/)
-
-O jogo no estilo Tower Defense foi desenvolvido para a matéria de Projeto Integrador, com o intuito de fazer uma junção com o tema saúde ao modo de jogo.
-
-[![](TowerDefense.PNG)](https://reiarthursr.github.io/Torre/)  
+[![](WorldRobot.PNG)](https://felipecastroifrn.github.io/World%20Robot/)   
 
 ## Artes
 
@@ -54,11 +48,20 @@ O jogo no estilo Tower Defense foi desenvolvido para a matéria de Projeto Integ
 * * *
 
 ## Apresentações
+
 * I Expotec - IFRN Campus Ceará-Mirim  
+
+## Projetos Desenvolvidos
 
 Orientador (a): Daniela Beny Polito Moraes
 
 ![](BannerEXPOTEC2017.png)  
+
+[Projeto Integrador: TowerDefense](https://reiarthursr.github.io/Torre/)
+
+O jogo no estilo Tower Defense foi desenvolvido para a matéria de Projeto Integrador, com o intuito de fazer uma junção com o tema saúde ao modo de jogo.
+
+[![](TowerDefense.PNG)](https://reiarthursr.github.io/Torre/)  
 
 * * *
 
