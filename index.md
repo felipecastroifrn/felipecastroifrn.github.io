@@ -51,6 +51,8 @@ Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de di
 
 * I Expotec - IFRN Campus Ceará-Mirim  
 
+* * *
+
 ## Projetos Desenvolvidos
 
 Orientador (a): Daniela Beny Polito Moraes
@@ -58,6 +60,8 @@ Orientador (a): Daniela Beny Polito Moraes
 ![](BannerEXPOTEC2017.png)  
 
 [Projeto Integrador: TowerDefense](https://reiarthursr.github.io/Torre/)
+
+Orientador (a): Marcelo de Barros Barbosa
 
 O jogo no estilo Tower Defense foi desenvolvido para a matéria de Projeto Integrador, com o intuito de fazer uma junção com o tema saúde ao modo de jogo.
 
