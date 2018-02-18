@@ -49,7 +49,7 @@ Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de di
 
 ## Atividades 
 
-[Tutorial de Multi-Idiomas no Construct 2](https://drive.google.com/drive/my-drive)  
+[Tutorial de Multi-Idiomas no Construct 2](https://drive.google.com/file/d/1uzIjZRQQZTVnfCOPD_5z0LbGPdh3q1ot/view?usp=sharing)  
 
 Integrantes: Arthur Soares; Felipe Castro; Tailson Ferreira  
 
