@@ -8,11 +8,11 @@ Felipe Castro, 18. Técnico em Programação de Jogos Digitais (IFRN - Campus Ce
 
 # Contatos 
 
-Facebook: [Felipe Castro](https://www.facebook.com/profile.php?id=100005745873339) 
+![](FaceLogo.png) [Felipe Castro](https://www.facebook.com/profile.php?id=100005745873339) 
 
-Instagram: [felipe_castrofc12](https://www.instagram.com/felipe_castrofc12/)
+![](InstaLogo.png) [felipe_castrofc12](https://www.instagram.com/felipe_castrofc12/)
 
-[Github](https://github.com/felipecastroifrn)
+![](LogoGithub) [Github](https://github.com/felipecastroifrn)
 
 E-Mail: felipecastro12345fc6@gmail.com
 
