@@ -81,10 +81,10 @@ O jogo no estilo Tower Defense foi desenvolvido para a matéria de Projeto Integ
 
 [![](TowerDefense.PNG)](https://reiarthursr.github.io/Torre/)  
 
-Projeto de Interface - Maquete 3D 
+Projeto de Interface - Maquete 3D de um Jogo
 
-![](MaqueteFT1.JPEG)  
-![](MaqueteFT2.JPEG)
+![](MaqueteFT1.jpeg)  
+![](MaqueteFT2.jpeg)
 
 * * *
 
