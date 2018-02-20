@@ -61,6 +61,8 @@ Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de di
 
 Integrantes: Arthur Soares; Felipe Castro; Tailson Ferreira  
 
+[Jogo da Velha - C++](https://drive.google.com/open?id=1GxmH5-X46kaDyO-meNmpO_aeYoWoagdf)
+
 ## Apresentações
 
 * I Expotec - IFRN Campus Ceará-Mirim  
