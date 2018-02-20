@@ -63,7 +63,7 @@ Integrantes: Arthur Soares; Felipe Castro; Tailson Ferreira
 
 Orientador (a): Daniela Beny Polito Moraes
 
-![](BannerEXPOTEC2017.png)  
+[![](BannerEXPOTEC2017.png)](https://drive.google.com/open?id=1XQaH_bqd3OwxgJupjBXbSq9NAzRnsapM)  
 
 [Projeto Integrador: TowerDefense](https://reiarthursr.github.io/Torre/)
 
