@@ -69,7 +69,11 @@ Releitura de Pôsters
 
 Inspiração: 101 Dalmatas
 
-![](Poster101Dalmatas.png)
+![](Poster101Dalmatas.png)  
+
+Inpiração: Ben 10  
+
+![](PosterBen10.png)
 
 ## Apresentações
 
@@ -92,6 +96,8 @@ O jogo no estilo Tower Defense foi desenvolvido para a matéria de Projeto Integ
 [![](TowerDefense.PNG)](https://reiarthursr.github.io/Torre/)  
 
 Projeto de Interface - Maquete 3D de um Jogo
+
+Orientador (a): Marcelo de Barros Barbosa
 
 ![](MaqueteFT1.jpeg)  
 ![](MaqueteFT2.jpeg)
