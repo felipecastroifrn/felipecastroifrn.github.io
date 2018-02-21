@@ -57,11 +57,19 @@ Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de di
 
 ## Atividades 
 
-[Tutorial de Multi-Idiomas no Construct 2](https://drive.google.com/file/d/1uzIjZRQQZTVnfCOPD_5z0LbGPdh3q1ot/view?usp=sharing)  
-
 Integrantes: Arthur Soares; Felipe Castro; Tailson Ferreira  
 
-[Jogo da Velha - C++](https://drive.google.com/open?id=1GxmH5-X46kaDyO-meNmpO_aeYoWoagdf)
+[Tutorial de Multi-Idiomas no Construct 2](https://drive.google.com/file/d/1uzIjZRQQZTVnfCOPD_5z0LbGPdh3q1ot/view?usp=sharing)  
+
+Jogo Desenvolvido em linguagem C++ para a matéria de Programação Orientada a Objetos (POO)
+
+[Jogo da Velha - C++](https://drive.google.com/open?id=1GxmH5-X46kaDyO-meNmpO_aeYoWoagdf)  
+
+Releitura de Pôsters
+
+Inspiração: 101 Dalmatas
+
+![](Poster101Dalmatas.png)
 
 ## Apresentações
 
