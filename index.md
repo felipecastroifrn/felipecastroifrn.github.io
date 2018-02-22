@@ -40,9 +40,11 @@ Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de di
 
 [![](5seconds.PNG)](https://felipecastroifrn.github.io/New%20project/)
 
+* * *
+
 ## MockUp
 
-É AQUI, OXE!
+![](MockUp.PNG)
 
 * * * 
 
