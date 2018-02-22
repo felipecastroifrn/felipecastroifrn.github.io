@@ -71,7 +71,7 @@ Jogo Desenvolvido em linguagem C++ para a matéria de Programação Orientada a 
 
 [Jogo da Velha - C++](https://drive.google.com/open?id=1GxmH5-X46kaDyO-meNmpO_aeYoWoagdf)  
 
-**Releitura de Pôsters
+**Releitura de Pôsters**
 
 Inspiração: 101 Dalmatas
 
