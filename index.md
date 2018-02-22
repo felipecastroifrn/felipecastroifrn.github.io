@@ -91,10 +91,6 @@ Inpiração: Ben 10
 
 ![](PosterBen10.png)
 
-## Apresentações
-
-* I Expotec - IFRN Campus Ceará-Mirim  
-
 * * *
 
 ## Projetos Desenvolvidos
@@ -103,7 +99,7 @@ Orientador (a): Daniela Beny Polito Moraes
 
 [![](BannerEXPOTEC2017.png)](https://drive.google.com/open?id=1XQaH_bqd3OwxgJupjBXbSq9NAzRnsapM)  
 
-[Projeto Integrador: TowerDefense](https://reiarthursr.github.io/Torre/)
+* [Projeto Integrador: TowerDefense](https://reiarthursr.github.io/Torre/)
 
 Orientador (a): Marcelo de Barros Barbosa
 
@@ -111,7 +107,7 @@ O jogo no estilo Tower Defense foi desenvolvido para a matéria de Projeto Integ
 
 [![](TowerDefense.PNG)](https://reiarthursr.github.io/Torre/)  
 
-Projeto de Interface - Maquete 3D de um Jogo
+* Projeto de Interface - Maquete 3D de um Jogo
 
 Orientador (a): Marcelo de Barros Barbosa
 
