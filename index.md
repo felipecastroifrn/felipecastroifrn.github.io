@@ -50,8 +50,10 @@ Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de di
 
 ## Artes
 
+[link para as Artes em Pixel 16x16](https://www.dropbox.com/sh/8trjwivy4rq17gt/AAAkp5V9rOjTG8qtETVoXqOua?dl=0)  
+
 ![](BandeiraBR.PNG)   ![](BandeiraUSA.PNG)               
-![](Coração.PNG)      ![](Personagem.png)
+![](Coração.PNG)      
 ![](Caminho-photoshop.png)  ![](Cenário.PNG) 
 
 * * *
