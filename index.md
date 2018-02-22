@@ -63,9 +63,19 @@ Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de di
 
 ## Atividades 
 
+**Análise Dramática de um Jogo**
+
+Game Design
+
+[The Legend Of Zelda: Twilight Princess](https://drive.google.com/open?id=15oG5PgSQ808HLPzgi2dnnY6AWUEGKY-f)  
+
+**Tutorial de Multi-Idiomas no Construct 2**
+
 Integrantes: Arthur Soares; Felipe Castro; Tailson Ferreira  
 
 [Tutorial de Multi-Idiomas no Construct 2](https://drive.google.com/file/d/1uzIjZRQQZTVnfCOPD_5z0LbGPdh3q1ot/view?usp=sharing)  
+
+**Jogo da Velha em C++**
 
 Jogo Desenvolvido em linguagem C++ para a matéria de Programação Orientada a Objetos (POO)
 
@@ -80,12 +90,6 @@ Inspiração: 101 Dalmatas
 Inpiração: Ben 10  
 
 ![](PosterBen10.png)
-
-**Análise Dramática de um Jogo**
-
-Game Design
-
-[The Legend Of Zelda: Twilight Princess] (https://drive.google.com/open?id=15oG5PgSQ808HLPzgi2dnnY6AWUEGKY-f)
 
 ## Apresentações
 
