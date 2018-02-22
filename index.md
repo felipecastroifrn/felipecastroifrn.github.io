@@ -54,7 +54,7 @@ Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de di
 
 ![](BandeiraBR.PNG)   ![](BandeiraUSA.PNG)               
 ![](Coração.PNG)      
-![](Caminho-photoshop.png)  ![](Cenário.PNG) 
+![](Caminho-photoshop.png)   
 
 * * *
 
