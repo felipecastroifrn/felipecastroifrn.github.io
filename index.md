@@ -44,7 +44,7 @@ Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de di
 
 ## MockUp
 
-![](MockUp.PNG)
+[![](MockUp.PNG)](https://www.youtube.com/watch?v=FkBTTBHB-uk)
 
 * * * 
 
