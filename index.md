@@ -38,9 +38,7 @@ Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de di
 
 * [Jogo 4: 5 Seconds](https://felipecastroifrn.github.io/New%20project/)  
 
-Jogo desenvolvido para a disciplina de Game Design
-
-[![](5seconds.png)](https://felipecastroifrn.github.io/New%20project/)
+[![](5seconds.PNG)](https://felipecastroifrn.github.io/New%20project/)
 
 ## MockUp
 
