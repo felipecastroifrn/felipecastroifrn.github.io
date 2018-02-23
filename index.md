@@ -30,7 +30,7 @@ E-Mail: felipecastro12345fc6@gmail.com
 
 Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de diversos inimigos.  
 
-**Colaborador:** [Jefferson Araújo](Jefferson141.github.io)
+**Colaborador:** [Jefferson Araújo](https://github.com/Jefferson141)
 
 [![](AMissãoDoMensageiro.png)](https://jefferson141.github.io/A%20miss%C3%A3o%20do%20Mensageiro/)
 
@@ -38,7 +38,7 @@ Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de di
 
 "World Robot" é um jogo onde um mini robô precisa derrotar naves, para isso ele precisa recarregar seu estoque constantemente.  
 
-**Colaboradores:** [Arthur Soares](reiarthursr.github.io) e [Tailson Ferreira](Tayllson.github.io)
+**Colaboradores:** [Arthur Soares](https://github.com/reiarthursr/) e [Tailson Ferreira](https://github.com/Tayllson)
 
 [![](WorldRobot.PNG)](https://felipecastroifrn.github.io/World%20Robot/)  
 
@@ -118,7 +118,7 @@ Orientador (a): Marcelo de Barros Barbosa
 
 O jogo no estilo Tower Defense foi desenvolvido para a matéria de Projeto Integrador, com o intuito de fazer uma junção com o tema saúde ao modo de jogo.
 
-**Colaboradores:** [Arthur Soares](reiarthursr.github.io) e [Tailson Ferreira](Tayllson.github.io)
+**Colaboradores:** [Arthur Soares](https://github.com/reiarthursr/) e [Tailson Ferreira](https://github.com/Tayllson)
 
 [![](TowerDefense.PNG)](https://reiarthursr.github.io/Torre/)  
 
