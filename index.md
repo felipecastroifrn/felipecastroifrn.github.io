@@ -44,7 +44,7 @@ Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de di
 
 * [Jogo 4: 5 Seconds](https://felipecastroifrn.github.io/New%20project/)  
 
-**Colaborador:** [Tailson Ferreira](Tayllson.github.io)
+**Colaborador:** [Tailson Ferreira](https://github.com/Tayllson)
 
 [![](5seconds.PNG)](https://felipecastroifrn.github.io/New%20project/)
 
