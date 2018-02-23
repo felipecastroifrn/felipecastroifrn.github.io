@@ -22,7 +22,7 @@ E-Mail: felipecastro12345fc6@gmail.com
 
 "Parkour Junino" propõe uma aventura por um ambiente com características dos festejos de São João.  
 
-**Colaborador** [Mathues ricardo](theusricardo.github.io)
+**Colaborador:** [Mathues ricardo](theusricardo.github.io)
 
 [![](ParkourJunino.PNG)](https://felipecastroifrn.github.io/ParkourJunino/)  
 
@@ -30,7 +30,7 @@ E-Mail: felipecastro12345fc6@gmail.com
 
 Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de diversos inimigos.  
 
-**Colaborador** [Jefferson Araújo](Jefferson141.github.io)
+**Colaborador:** [Jefferson Araújo](Jefferson141.github.io)
 
 [![](AMissãoDoMensageiro.png)](https://jefferson141.github.io/A%20miss%C3%A3o%20do%20Mensageiro/)
 
@@ -38,13 +38,13 @@ Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de di
 
 "World Robot" é um jogo onde um mini robô precisa derrotar naves, para isso ele precisa recarregar seu estoque constantemente.  
 
-**Colaborador** [Arthur Soares](reiarthursr.github.io)  [Tailson Ferreira](Tayllson.github.io)
+**Colaboradores:** [Arthur Soares](reiarthursr.github.io) e [Tailson Ferreira](Tayllson.github.io)
 
 [![](WorldRobot.PNG)](https://felipecastroifrn.github.io/World%20Robot/)  
 
 * [Jogo 4: 5 Seconds](https://felipecastroifrn.github.io/New%20project/)  
 
-**Colaborador** [Tailson Ferreira](Tayllson.github.io)
+**Colaborador:** [Tailson Ferreira](Tayllson.github.io)
 
 [![](5seconds.PNG)](https://felipecastroifrn.github.io/New%20project/)
 
@@ -52,7 +52,7 @@ Uma nave viajando por mundos diferentes, precisa capturar cartas e desviar de di
 
 ## MockUp
 
-**Colaborador** [João Pedro](https://bixcoito.github.io/)
+**Colaborador:** [João Pedro](https://bixcoito.github.io/)
 
 [![](MockUp.PNG)](https://www.youtube.com/watch?v=FkBTTBHB-uk)
 
@@ -118,7 +118,7 @@ Orientador (a): Marcelo de Barros Barbosa
 
 O jogo no estilo Tower Defense foi desenvolvido para a matéria de Projeto Integrador, com o intuito de fazer uma junção com o tema saúde ao modo de jogo.
 
-**Colaboradores** [Arthur Soares](reiarthursr.github.io)  [Tailson Ferreira](Tayllson.github.io)
+**Colaboradores:** [Arthur Soares](reiarthursr.github.io) e [Tailson Ferreira](Tayllson.github.io)
 
 [![](TowerDefense.PNG)](https://reiarthursr.github.io/Torre/)  
 
