@@ -22,7 +22,7 @@ E-Mail: felipecastro12345fc6@gmail.com
 
 "Parkour Junino" propõe uma aventura por um ambiente com características dos festejos de São João.  
 
-**Colaborador:** [Mathues ricardo](theusricardo.github.io)
+**Colaborador:** [Mathues ricardo](https://github.com/theusricardo/)
 
 [![](ParkourJunino.PNG)](https://felipecastroifrn.github.io/ParkourJunino/)  
 
