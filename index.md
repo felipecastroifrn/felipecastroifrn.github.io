@@ -130,16 +130,3 @@ Orientador (a): Marcelo de Barros Barbosa
 ![](MaqueteFT2.jpeg)
 
 * * *
-
-
-** negrito  
-_ italico  
-~~ riscado 
-
-#s uma ou mais hashtags criam capítulos ou subcapítulos
-
-*s asteriscos adicionam uma lista não numerada
-
-1s numeros adicionam uma lista numerada
-
-* * *
